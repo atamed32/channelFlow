@@ -1,0 +1,46 @@
+canal21:	résultats
+fichier 	 
+abcisse = 	    0.0	m
+cote = 	   27.6	m
+nombre de pas =	500
+débit =	  470.0	m3/s
+choixtopo =	amont
+aval =	  nodef 	m
+amont =	 2.4500	m
+départs éventuels de branches torrentielles : 1
+nø	1	section	0	X=	   0.000	Hs=	  31.323
+
+Descriptif de la ligne d'eau
+no	F
+.	.
+ 0	  1.003
+20	  1.610
+40	  1.916
+60	  2.168
+80	  2.390
+100	  2.591
+120	  2.777
+140	  2.949
+160	  3.110
+180	  3.262
+200	  3.404
+220	  3.539
+240	  3.666
+260	  3.787
+280	  3.901
+300	  4.009
+320	  4.112
+340	  4.209
+360	  4.301
+380	  4.389
+400	  4.472
+420	  4.551
+440	  4.626
+460	  4.697
+480	  4.765
+500	  4.829
+
+
+  144.00
+500	  150.00
+28	Dev	10	1		+0.3850	2	140	5.07	dénoyé	

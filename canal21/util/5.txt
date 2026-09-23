@@ -1,0 +1,3 @@
+OUVRAGES	Données					|Résultats
+Cas no	type	d1	d2	d3	mu	Yav	Q	Yam	régime	
+1	Rec	2.85	+0.4000	2.5	+0.4900	+0.7400	28.8	5.118	dénoyé	

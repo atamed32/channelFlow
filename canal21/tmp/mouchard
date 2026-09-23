@@ -1,0 +1,30 @@
+direnv = C:\canal21 
+PRINC wdtouche = B1 
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 99 99.0000 kodact 0
+FENSECT/sortie  WDTouche ESC
+PRINC sortie B1 wdtouche = CONTINUE 
+
+PRINC wdtouche = B2 
+PRINC sortie B2 wdtouche = CONTINUE 
+
+PRINC wdtouche = B1 
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 99 99.0000 kodact 0
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 2 2.7206 kodact 0
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 6 6.4719 kodact 0
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 4 4.6135 kodact 0
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 2 2.2578 kodact 0
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 4 4.6135 kodact 0
+FENSECT/CAL  WDTouche CAL 
+FENSECT/dessiner WDTouche CAL nbre fen ouv 0 0.4769 kodact 0
+FENSECT/sortie  WDTouche ESC
+PRINC sortie B1 wdtouche = CONTINUE 
+
+PRINC wdtouche = ESC 
+je sors par wdtouche = ESC 

@@ -1,0 +1,4 @@
+OUVRAGES	Données					|Résultats
+Cas no	type	d1	d2	d3	mu	Yav	Q	Yam	régime	
+1	Dev	4	+0.7500		+0.4900	1.38	14.7	2.171	dénoyé	
+2	Dev	4	+0.7500		+0.4900	1.38	14.7	2.171	dénoyé	

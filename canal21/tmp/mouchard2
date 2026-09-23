@@ -1,0 +1,104 @@
+princ : dessin C:\canal21\tmp\dessin excel C:\canal21\util\c_excel.txt
+ fensect:recupere edition=4
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=1
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.017700 
+ Y_ = -170000000000000000000000000000000000000.000000 deb= 16.840000 Hs= -170000000000000000000000000000000000000.000000
+--> je vais au rec
+--- arrivee de fensect dans rect edition 4
+rect: typecourbe 0
+ cas 1 0.779697
+verif travrec -> ajustedessin   3.500   2.721  Y_   0.780 Yn   0.780
+ travrec -> ajustedessin  -3.080   3.080  -0.599   3.591
+Y_ 0.779697 Hsmin 1.997129 Rh 0.539380 Yc 0.779697 Yn 1.331352 Q 16.840000 Tz 93.656526
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=4
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=1
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.017700 
+ Y_ = -170000000000000000000000000000000000000.000000 deb= 16.840000 Hs= -170000000000000000000000000000000000000.000000
+--> je vais au rec
+--- arrivee de fensect dans rect edition 4
+rect: typecourbe 0
+ cas 1 0.779697
+verif travrec -> ajustedessin   3.500   2.721  Y_   0.780 Yn   0.780
+ travrec -> ajustedessin  -3.080   3.080  -0.599   3.591
+Y_ 0.779697 Hsmin 1.997129 Rh 0.539380 Yc 0.779697 Yn 1.331352 Q 16.840000 Tz 93.656526
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=6
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=2
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.017700 
+ Y_ = 2.200000 deb= -170000000000000000000000000000000000000.000000 Hs= 2.720600
+--> je vais au rec
+--- arrivee de fensect dans rect edition 6
+rect: typecourbe 0
+errgraphi ceci oblige à relever la valeur de l' énergie specifique 0
+verif travrec -> ajustedessin   3.500   6.472  Y_   2.200 Yn   2.200
+ travrec -> ajustedessin  -3.080   3.080  -1.424   8.543
+Y_ 2.200000 Hsmin 5.187189 Rh 0.974684 Yc 2.200001 Yn 3.458059 Q 70.493839 Tz 169.241126
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=4
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=2
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.010000 
+ Y_ = 2.200000 deb= 70.493797 Hs= 6.471900
+--> je vais au rec
+--- arrivee de fensect dans rect edition 4
+rect: typecourbe 0
+verif travrec -> ajustedessin   3.500   4.614  Y_   2.200 Yn   2.200
+ travrec -> ajustedessin  -3.080   3.080  -1.015   6.090
+Y_ 2.200000 Hsmin 4.288210 Rh 0.974684 Yc 2.200001 Yn 2.858740 Q 52.986414 Tz 95.616454
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=5
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=1
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.010000 
+ Y_ = -170000000000000000000000000000000000000.000000 deb= 16.840000 Hs= 4.613500
+--> je vais au rec
+--- arrivee de fensect dans rect edition 5
+rect: typecourbe 0
+ cas 1 0.949777
+verif travrec -> ajustedessin   3.500   2.258  Y_   0.950 Yn   0.950
+ travrec -> ajustedessin  -3.080   3.080  -0.497   2.980
+Y_ 0.949777 Hsmin 1.997129 Rh 0.615647 Yc 0.949777 Yn 1.331352 Q 16.840000 Tz 60.394938
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=6
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=2
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.010000 
+ Y_ = 2.200000 deb= -170000000000000000000000000000000000000.000000 Hs= 2.257800
+--> je vais au rec
+--- arrivee de fensect dans rect edition 6
+rect: typecourbe 0
+errgraphi ceci oblige à relever la valeur de l' énergie specifique 0
+verif travrec -> ajustedessin   3.500   4.614  Y_   2.200 Yn   2.200
+ travrec -> ajustedessin  -3.080   3.080  -1.015   6.090
+Y_ 2.200000 Hsmin 4.288210 Rh 0.974684 Yc 2.200001 Yn 2.858740 Q 52.986414 Tz 95.616454
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=5
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=1
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.010000 
+ Y_ = -170000000000000000000000000000000000000.000000 deb= 1.680000 Hs= 4.613500
+--> je vais au rec
+--- arrivee de fensect dans rect edition 5
+rect: typecourbe 0
+ cas 1 0.209574
+verif travrec -> ajustedessin   3.500   0.477  Y_   0.210 Yn   0.210
+ travrec -> ajustedessin  -3.080   3.080  -0.105   0.630
+Y_ 0.209574 Hsmin 0.429665 Rh 0.187160 Yc 0.209574 Yn 0.286377 Q 1.680000 Tz 18.360209
+ s1 Pente forte s2 Unif. torrentiel 
+ fensect:recupere edition=5
+ fensect:recupere sect=1
+ fensect:recupere : sect=1 courbe=0 calc=1
+fensect:recupere larg = 3.500000 k = 70.000000 i = 0.010000 
+ Y_ = 0.209600 deb= 0.168000 Hs= 0.476900
+--> je vais au rec
+--- arrivee de fensect dans rect edition 5
+rect: typecourbe 0
+ cas 1 0.050894
+verif travrec -> ajustedessin   3.500   0.096  Y_   0.051 Yn   0.051
+ travrec -> ajustedessin  -3.080   3.080  -0.021   0.127
+Y_ 0.050894 Hsmin 0.092647 Rh 0.049456 Yc 0.050894 Yn 0.061698 Q 0.168000 Tz 4.851544
+ s1 Pente forte s2 Unif. torrentiel 
