@@ -1,0 +1,5 @@
+{
+  "name": "Canal21 - Open Channel Flow Hydraulic Simulator",
+  "description": "Modern web migration of Canal21 / ChannelFlow: open channel hydraulic calculation engine for water surface profiles (remous), normal/critical depth, specific energy, hydraulic jumps, and multi-reach canals.",
+  "requestFramePermissions": []
+}
